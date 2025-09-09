@@ -1,0 +1,11 @@
+@media (max-width:900px) {
+    .carousel {
+
+        height: calc(70vh - 170px);
+
+    }
+
+    .page-header {
+        padding: 2rem 0;
+    }
+}
